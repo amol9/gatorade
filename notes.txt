@@ -1,0 +1,31 @@
+03:01
+
+I have started on a project here. The idea is to build a web-app which would have a frontend to rate various energy drinks. There would be a backend to store the ratings. This will be the first part. The second part will be to display the summary of the data collected.
+
+The rating will gather the following data.
+
+Taste
+Color
+Smell
+Zing
+Refreshment level
+Availability
+
+Other Information
+
+Company
+
+BF/GF
+Spouse
+Colleagues
+Alone
+
+Place
+
+Home
+Cafe
+Mall
+Vehicle
+
+There is a thought, to use checkboxes to collect the data.
+

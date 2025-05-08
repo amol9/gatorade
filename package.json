@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "express-generator": "^4.16.1"
   },
   "name": "gatorade",
   "version": "1.0.0",
   "description": "A web app to rate energy drinks.",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
